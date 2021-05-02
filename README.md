@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs,Javascript**
 
-- 📫 How to reach me **saravananjaganathan96@gmail.com**
+- 📫 How to reach me **<a href="mailto:saravananjaganathan96@gmail.com">Mail</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
